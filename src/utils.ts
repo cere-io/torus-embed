@@ -153,7 +153,7 @@ export const getTorusUrl = async (
       logLevel = "debug";
       break;
     case "cere-stage":
-      torusUrl = `https://wallet.stg.cere.io?v${versionUsed}`;
+      torusUrl = `https://wallet.stage.cere.io?v${versionUsed}`;
       logLevel = "debug";
       break;
 
