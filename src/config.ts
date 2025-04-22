@@ -229,7 +229,7 @@ const translations = {
 export default {
   supportedVerifierList: Object.values(WALLET_VERIFIERS),
   paymentProviders,
-  api: "https://api.tor.us",
+  api: "https://api.web3auth.io",
   translations,
   prodTorusUrl: "",
   localStorageKeyPrefix: `torus-`,
