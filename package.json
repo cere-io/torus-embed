@@ -1,6 +1,6 @@
 {
   "name": "@cere/torus-embed",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "clientVersion": "1.31.0",
   "description": "Embed script for Torus (Cere frok)",
   "main": "dist/torus.cjs.js",
@@ -30,10 +30,10 @@
   "dependencies": {
     "@metamask/obs-store": "^7.0.0",
     "@toruslabs/http-helpers": "^3.4.0",
-    "@toruslabs/openlogin": "^3.2.1",
-    "@toruslabs/openlogin-jrpc": "^3.2.0",
-    "@web3auth/base": "^4.6.0",
-    "@web3auth/ethereum-provider": "^4.6.0",
+    "@toruslabs/openlogin": "^4.7.2",
+    "@toruslabs/openlogin-jrpc": "^4.7.2",
+    "@web3auth/base": "^6.1.7",
+    "@web3auth/ethereum-provider": "^6.1.8",
     "create-hash": "^1.2.0",
     "end-of-stream": "^1.4.4",
     "eth-rpc-errors": "^4.0.3",
